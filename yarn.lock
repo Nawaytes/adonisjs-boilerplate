@@ -191,7 +191,7 @@
     abstract-logging "^2.0.1"
     pino "^6.14.0"
 
-"@adonisjs/lucid@^18.0.1":
+"@adonisjs/lucid@^18.1.0":
   version "18.1.0"
   resolved "https://registry.yarnpkg.com/@adonisjs/lucid/-/lucid-18.1.0.tgz#93b4c8e91f26cc70afe0b14d46c611dbc8869035"
   integrity sha512-RAUtsBSkdEC3hkbcRawY+v2OljX1zt/b1zEuBN0/4kXHNYp3y+dCuF73OGVoWpwReJsEsvKUsGmZ1Nyn0DbBSw==
